@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="760" viewBox="0 0 720 760" role="img" aria-labelledby="title desc">
+  <title id="title">Profile photo placeholder</title>
+  <desc id="desc">A cheerful illustrated portrait on a soft lavender background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e4d4fa"/><stop offset="1" stop-color="#b8e8ef"/></linearGradient>
+  </defs>
+  <rect width="720" height="760" fill="url(#bg)"/>
+  <circle cx="590" cy="120" r="84" fill="#daf276"/>
+  <path d="M98 630c28-147 119-222 260-222s232 75 264 222v130H98z" fill="#6c3bb0"/>
+  <path d="M226 445c35-51 78-77 133-77 58 0 103 28 137 82l-34 78H256z" fill="#f5bd9a"/>
+  <ellipse cx="360" cy="304" rx="146" ry="164" fill="#b87952"/>
+  <path d="M217 310c-9-134 46-212 157-212 89 0 151 72 145 194-28-20-49-49-61-86-58 46-141 74-241 84z" fill="#302533"/>
+  <path d="M257 320c20-12 41-12 61 0M402 320c19-12 39-12 58 0" fill="none" stroke="#382624" stroke-width="10" stroke-linecap="round"/>
+  <ellipse cx="291" cy="341" rx="10" ry="13" fill="#302533"/><ellipse cx="427" cy="341" rx="10" ry="13" fill="#302533"/>
+  <path d="M329 407c20 17 43 17 64 0" fill="none" stroke="#874a3f" stroke-width="8" stroke-linecap="round"/>
+  <text x="360" y="704" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="3">PROFILE IMAGE PLACEHOLDER</text>
+</svg>

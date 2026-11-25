@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="570" viewBox="0 0 920 570" role="img" aria-labelledby="title desc">
+  <title id="title">Study Spot project preview placeholder</title>
+  <desc id="desc">A lavender student planner preview with a weekly study card and task list.</desc>
+  <rect width="920" height="570" fill="#eee5fb"/>
+  <circle cx="788" cy="64" r="118" fill="#d8c1f1"/>
+  <rect x="100" y="72" width="720" height="426" rx="22" fill="#fff"/>
+  <rect x="100" y="72" width="720" height="61" rx="22" fill="#faf8fd"/>
+  <path d="M100 111h720v22H100z" fill="#faf8fd"/>
+  <circle cx="130" cy="102" r="7" fill="#8b42d8"/><text x="150" y="108" fill="#211d2b" font-family="Arial, sans-serif" font-size="18" font-weight="700">study spot</text>
+  <text x="145" y="180" fill="#686374" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">MONDAY, MAY 12</text>
+  <text x="145" y="220" fill="#211d2b" font-family="Arial, sans-serif" font-size="30" font-weight="700">Your week, your pace.</text>
+  <rect x="145" y="255" width="390" height="192" rx="14" fill="#f4eefb"/>
+  <text x="169" y="289" fill="#6330a5" font-family="Arial, sans-serif" font-size="14" font-weight="700">THIS WEEK</text>
+  <rect x="169" y="312" width="151" height="102" rx="10" fill="#fff"/><text x="184" y="339" fill="#686374" font-family="Arial, sans-serif" font-size="12">Study sessions</text><text x="184" y="379" fill="#211d2b" font-family="Arial, sans-serif" font-size="31" font-weight="700">04</text><text x="222" y="378" fill="#686374" font-family="Arial, sans-serif" font-size="12">planned</text>
+  <rect x="334" y="312" width="177" height="102" rx="10" fill="#daf276"/><text x="350" y="339" fill="#3c4920" font-family="Arial, sans-serif" font-size="12">Next up</text><text x="350" y="370" fill="#211d2b" font-family="Arial, sans-serif" font-size="17" font-weight="700">Biology notes</text><text x="350" y="392" fill="#686374" font-family="Arial, sans-serif" font-size="11">Today · 4:30 pm</text>
+  <rect x="563" y="177" width="220" height="270" rx="14" fill="#fbfafd" stroke="#e8e5ee"/>
+  <text x="588" y="212" fill="#211d2b" font-family="Arial, sans-serif" font-size="16" font-weight="700">Your checklist</text>
+  <circle cx="597" cy="252" r="8" fill="#8b42d8"/><path d="m593 252 3 3 6-7" fill="none" stroke="#fff" stroke-width="2"/><text x="616" y="257" fill="#686374" font-family="Arial, sans-serif" font-size="13">Read chapter 3</text>
+  <circle cx="597" cy="292" r="8" fill="#8b42d8"/><path d="m593 292 3 3 6-7" fill="none" stroke="#fff" stroke-width="2"/><text x="616" y="297" fill="#686374" font-family="Arial, sans-serif" font-size="13">Review class notes</text>
+  <circle cx="597" cy="332" r="8" fill="#fff" stroke="#c9c2d4" stroke-width="2"/><text x="616" y="337" fill="#211d2b" font-family="Arial, sans-serif" font-size="13">Finish assignment</text>
+  <rect x="587" y="368" width="172" height="40" rx="8" fill="#8b42d8"/><text x="673" y="393" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="12" font-weight="700">ADD A TASK</text>
+  <text x="460" y="535" text-anchor="middle" fill="#6330a5" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">PROJECT IMAGE PLACEHOLDER</text>
+</svg>

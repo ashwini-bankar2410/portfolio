@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="570" viewBox="0 0 920 570" role="img" aria-labelledby="title desc">
+  <title id="title">Local Lens project preview placeholder</title>
+  <desc id="desc">A blue community places guide preview with a simple map and local place cards.</desc>
+  <rect width="920" height="570" fill="#dff3f7"/>
+  <circle cx="801" cy="78" r="118" fill="#b8e8ef"/>
+  <rect x="100" y="72" width="720" height="426" rx="22" fill="#fff"/>
+  <rect x="100" y="72" width="720" height="61" rx="22" fill="#f7fcfd"/><path d="M100 111h720v22H100z" fill="#f7fcfd"/>
+  <circle cx="130" cy="102" r="7" fill="#36abc9"/><text x="150" y="108" fill="#211d2b" font-family="Arial, sans-serif" font-size="18" font-weight="700">local lens</text>
+  <rect x="127" y="158" width="399" height="304" rx="14" fill="#eef8f9"/>
+  <path d="M127 236h399M127 326h399M226 158v304M345 158v304M451 158v304" stroke="#c9e5e9" stroke-width="12"/>
+  <path d="M128 400c69-42 103-32 144-88s90-35 132-83c40-45 70-32 122-71" fill="none" stroke="#41bde0" stroke-width="9" stroke-linecap="round"/>
+  <path d="M287 270c0-21 16-37 36-37s36 16 36 37c0 28-36 58-36 58s-36-30-36-58z" fill="#8b42d8"/><circle cx="323" cy="269" r="12" fill="#fff"/>
+  <path d="M417 369c0-17 13-30 30-30s30 13 30 30c0 23-30 47-30 47s-30-24-30-47z" fill="#daf276"/><circle cx="447" cy="368" r="10" fill="#4c6320"/>
+  <rect x="554" y="158" width="237" height="304" rx="14" fill="#fbfafd" stroke="#e8e5ee"/>
+  <text x="578" y="192" fill="#686374" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1">GOOD SPOTS NEAR YOU</text>
+  <rect x="578" y="211" width="189" height="65" rx="9" fill="#fff" stroke="#e8e5ee"/><circle cx="607" cy="243" r="17" fill="#e7dcf6"/><path d="M599 247v-7l8-6 8 6v7h-5v-7h-6v7z" fill="#6330a5"/><text x="637" y="240" fill="#211d2b" font-family="Arial, sans-serif" font-size="13" font-weight="700">Maple Library</text><text x="637" y="258" fill="#686374" font-family="Arial, sans-serif" font-size="11">Quiet study spot</text>
+  <rect x="578" y="289" width="189" height="65" rx="9" fill="#fff" stroke="#e8e5ee"/><circle cx="607" cy="321" r="17" fill="#daf276"/><path d="M599 329c3-12 13-12 16 0m-12-11a4 4 0 1 0 8 0" fill="none" stroke="#526b26" stroke-width="2"/><text x="637" y="318" fill="#211d2b" font-family="Arial, sans-serif" font-size="13" font-weight="700">Riverside Park</text><text x="637" y="336" fill="#686374" font-family="Arial, sans-serif" font-size="11">Fresh air break</text>
+  <rect x="578" y="367" width="189" height="65" rx="9" fill="#fff" stroke="#e8e5ee"/><circle cx="607" cy="399" r="17" fill="#dff3f7"/><path d="M598 404h18l-3-13h-12z" fill="#36abc9"/><text x="637" y="396" fill="#211d2b" font-family="Arial, sans-serif" font-size="13" font-weight="700">Corner Cafe</text><text x="637" y="414" fill="#686374" font-family="Arial, sans-serif" font-size="11">A good snack break</text>
+  <text x="460" y="535" text-anchor="middle" fill="#2788a0" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">PROJECT IMAGE PLACEHOLDER</text>
+</svg>
